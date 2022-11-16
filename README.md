@@ -1,4 +1,4 @@
-# OptmizeImage
+# optimize-image
 Script bash per compressione e resize immagini.
 Vengono usate due librerie:
 - pngquant (https://pngquant.org/). Utility per la compressione delle immagini PNG
